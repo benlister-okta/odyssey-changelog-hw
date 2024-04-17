@@ -1,0 +1,2 @@
+** Changelog test HW project
+This repo is used for test data for the ODS changelog. Changes listed in the changelog do not reflect the current or future planned state of Odyssey and are used for exploratory purposes only.
