@@ -3,17 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [1.15.10](https://github.com/okta/odyssey/compare/v1.15.8...v1.15.9) (2024-04-19)
+## [1.15.10-preview](https://odyssey.okta.design/latest/about-odyssey/changelog-CzgEh1sj) (2024-04-19)
 
 ### Features
-- [Empty state](https://odyssey.okta.design/latest/content/empty-states-9x4tpC1T) - A generic layout component that can be used to communicate no data and empty states
+- [Blank admin template](https://www.figma.com/file/VCboDINbWviK0pOvWlFbbo/Blank-admin-template?type=design&t=hPcrk4QupmBQS9dW-6) - [Figma] This template serves as a jumping-off point for design, as the blank canvas containing the basic framework with which to create any type of UI. 
+- [Data Table](https://odyssey.okta.design/latest/components/data-table/design-j0LLQfAR) - Data table organizes and displays information so it’s easy for users to scan, sort, analyze, compare, and take action.
+- [Date Picker (Labs)](https://odyssey.okta.design/latest/components/date-picker/design-I91EF1Cm) - A date picker allows people to select a single date or time.
 - [Drawer](https://odyssey.okta.design/latest/components/drawer/design-wu4zfglp) - A new modal content container that’s perfect for supplemental filtering workflows and editing short lists of item.
-- [Date Picker](https://odyssey.okta.design/latest/components/date-picker/design-I91EF1Cm) - A date picker allows people to select a single date or time.
+- [File uploader](https://odyssey.okta.design/latest/components/file-uploader/design-7RVlRb8E) - File uploader lets users upload files from a computer or device to a specific location.
 
 ### Enhancments 
 - [Universal Okta icons](https://okta.slack.com/archives/C7T2H3KNJ/p1709857064692349) - [Figma] Navigation icons are now available. We’ve also updated the glyph grid, and made file organization updates, and visual optimizations.
-
-
 
 
 
