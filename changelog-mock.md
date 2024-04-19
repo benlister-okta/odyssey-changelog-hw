@@ -3,36 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [1.15.10](https://github.com/okta/odyssey/compare/v1.15.8...v1.15.9) (2024-04-21)
+## (2024-04-19)
 
 ### Features
-- [Empty state](https://odyssey.okta.design/latest/content/empty-states-9x4tpC1T) - A generic component that can be used to communicate no data and empty states
+- [Empty state](https://odyssey.okta.design/latest/content/empty-states-9x4tpC1T) - A generic layout component that can be used to communicate no data and empty states
 - [Drawer](https://odyssey.okta.design/latest/components/drawer/design-wu4zfglp) - A new modal content container that’s perfect for supplemental filtering workflows and editing short lists of item.
 - [Date Picker](https://odyssey.okta.design/latest/components/date-picker/design-I91EF1Cm) - A date picker allows people to select a single date or time.
 
 ### Enhancments 
 - [Universal Okta icons](https://okta.slack.com/archives/C7T2H3KNJ/p1709857064692349) - [Figma] Navigation icons are now available. We’ve also updated the glyph grid, and made file organization updates, and visual optimizations.
-- CodeSandbox examples in docs site - Editable and sharable CodeSandbox component demos have been added for Button, Callout, Card, Checkbox, Data Table, and TextField.
-
-
-
-
-### Bug Fixes
-
-- Update MUI ([#2553](https://github.com/okta/odyssey/issues/2180)) ([j297bf](https://github.com/okta/odyssey/commit/e2199bb0650ed7cabf5d460a5cc9b29d1a3faa6f))
-- Fix height issue on Text Field  ([#4664](https://github.com/okta/odyssey/issues/2180)) ([f66hdg](https://github.com/okta/odyssey/commit/e2199bb0650ed7cabf5d460a5cc9b29d1a3faa6f))
-- Add missing storybook table property for Drawer ([#4789](https://github.com/okta/odyssey/issues/2180)) ([uu9kk4](https://github.com/okta/odyssey/commit/e2199bb0650ed7cabf5d460a5cc9b29d1a3faa6f))
-- [Figma] Add hint to Radio ([DES-5400](https://oktainc.atlassian.net/browse/DES-5400))
-- [Figma] Admin Template fix auto-layout issue with form ([DES-5999](#))
-- [Figma] Blue floating button and alternate link-button variant ([DES-5330](https://oktainc.atlassian.net/browse/DES-5330))
-- [Figma] Fixed issues with topnav drawing subcomponents from non-UI kit files ([DES-5942](#))
-- [Figma] Preset designs for all product area sidenav variaitons ([DES-5356](#))
-- [Figma] Added avatar functionality to top nav ([DES-5886](#))
-- [Figma] Fixed issue with tab group being unable to set active or inactive states ([DES-5802](#))
-
-
-
-
 
 ## [1.15.9](https://github.com/okta/odyssey/compare/v1.15.8...v1.15.9) (2024-03-26)
 
