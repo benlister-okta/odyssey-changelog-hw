@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## (2024-04-19)
+## [1.15.10](https://github.com/okta/odyssey/compare/v1.15.8...v1.15.9) (2024-04-19)
 
 ### Features
 - [Empty state](https://odyssey.okta.design/latest/content/empty-states-9x4tpC1T) - A generic layout component that can be used to communicate no data and empty states
@@ -12,6 +12,10 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### Enhancments 
 - [Universal Okta icons](https://okta.slack.com/archives/C7T2H3KNJ/p1709857064692349) - [Figma] Navigation icons are now available. We’ve also updated the glyph grid, and made file organization updates, and visual optimizations.
+
+
+
+
 
 ## [1.15.9](https://github.com/okta/odyssey/compare/v1.15.8...v1.15.9) (2024-03-26)
 
