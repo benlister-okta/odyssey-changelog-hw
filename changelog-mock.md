@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [1.15.10-preview](https://odyssey.okta.design/latest/about-odyssey/changelog-CzgEh1sj) (2024-04-19)
+## [1.15.10p](https://odyssey.okta.design/latest/about-odyssey/changelog-CzgEh1sj) (2024-04-19)
 
 ### Features
 - [Blank admin template](https://www.figma.com/file/VCboDINbWviK0pOvWlFbbo/Blank-admin-template?type=design&t=hPcrk4QupmBQS9dW-6) - [Figma] This template serves as a jumping-off point for design, as the blank canvas containing the basic framework with which to create any type of UI. 
