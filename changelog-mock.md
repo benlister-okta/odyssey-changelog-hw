@@ -12,7 +12,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 - [Drawer](https://odyssey.okta.design/latest/components/drawer/design-wu4zfglp) - A new modal content container that’s perfect for supplemental filtering workflows and editing short lists of item.
 - [File uploader](https://odyssey.okta.design/latest/components/file-uploader/design-7RVlRb8E) - File uploader lets users upload files from a computer or device to a specific location.
 
-### Enhancments 
+### Enhancements
 - [Universal Okta icons](https://okta.slack.com/archives/C7T2H3KNJ/p1709857064692349) - [Figma] Navigation icons are now available. We’ve also updated the glyph grid, and made file organization updates, and visual optimizations.
 
 
